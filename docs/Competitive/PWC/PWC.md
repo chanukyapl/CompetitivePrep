@@ -1,6 +1,7 @@
 ---
 layout: default
 title: PWC
+parent: Competitive
 nav_order: 3
 has_children: true
 permalink: /docs/Competitive/PWC
