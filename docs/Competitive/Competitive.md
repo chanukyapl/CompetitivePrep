@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Parent
+title: Competitive
 nav_order: 3
 has_children: true
-permalink: /docs/parent
+permalink: /docs/Competitive
 ---
 
 # Parent

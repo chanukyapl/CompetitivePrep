@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chanukya
+title: Home
 nav_order: 
 ---
 
@@ -17,12 +17,4 @@ check the configuration
 
 ---
 
-## Site logo
-
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
-## customization
-
-check just-the-docs for customization
+## This is for preparation
